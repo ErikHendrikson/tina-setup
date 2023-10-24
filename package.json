@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinalabs/vanilla-hugo.git"
+    "url": "git@github.com:ErikHendrikson/tina-setup.git"
   },
   "keywords": [],
   "author": "",
