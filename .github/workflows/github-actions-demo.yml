@@ -28,7 +28,7 @@ jobs:
       run: npm ci
 
     - name: Build with TinaCMS and Hugo
-      run: npm run tinacms build && hugo
+      run: npx tinacms build && hugo
 
     - name: Upload Files
       id: upload
