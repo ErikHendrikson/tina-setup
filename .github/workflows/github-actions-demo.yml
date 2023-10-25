@@ -24,8 +24,8 @@ jobs:
     - name: Install Dependencies
       run: npm ci
 
-    - name: Build with TinaCMS and Hugo
-      run: npx tinacms build && hugo
+    - name: Build with TinaCMS
+      run: npx tinacms build
       env:
         TINA_CLIENT_ID: ${{ secrets.TINACLIENTID }}
         TINA_TOKEN: ${{ secrets.TINATOKEN }}
