@@ -27,7 +27,7 @@ jobs:
     - name: Build with TinaCMS and Hugo
       run: npx tinacms build && hugo
       env:
-        TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINACLIENTID }}
+        TINA_CLIENT_ID: ${{ secrets.TINACLIENTID }}
         TINA_TOKEN: ${{ secrets.TINATOKEN }}
 
     - name: Upload Files
