@@ -10,14 +10,11 @@ jobs:
     - name: Install Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: 16  # Use Node.js version 16
+        node-version: 14  # Use the appropriate Node.js version
     - name: Install Dependencies
       run: npm install  # You might need to adjust this depending on your project
     - name: Build
       run: npm run build  # Replace with your build command
-      env:
-        TINA_CLIENT_ID: ${{ secrets.TINACLIENTID }}
-        TINA_TOKEN: ${{ secrets.TINATOKEN }}
     - name: Upload Files
       id: upload
       uses: Creepios/sftp-action@v1.0.3
