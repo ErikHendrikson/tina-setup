@@ -24,8 +24,15 @@ jobs:
     - name: Install Dependencies
       run: npm ci
 
-    - name: Build with TinaCMS
-      run: npx tinacms build && npm run build
+    - name: Install Hugo
+      run: |
+        wget https://github.com/gohugoio/hugo/releases/download/v0.92.0/hugo_0.92.0_Linux-64bit.tar.gz
+        tar -xzf hugo_0.92.0_Linux-64bit.tar.gz
+        mv hugo /usr/local/bin/
+        hugo version
+
+    - name: Build
+      run: npm run build
       env:
         TINA_CLIENT_ID: ${{ secrets.TINACLIENTID }}
         TINA_TOKEN: ${{ secrets.TINATOKEN }}
