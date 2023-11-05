@@ -2,7 +2,7 @@
 title: 'An unwanted nickname: Angel of Death'
 ---
 
-Some people might think of the Grim Reaper. Some might think of Shinigami, gods of death in Japanese folklore and mythology, and seen in the famous anime Death Note. And some metalheads may read this title and be reminded of the Slayer song on their famous 1986 release ‘Reign in Blood’. The lyrics refer to one of those angels of death: Josef Mengele. Also known as the Auschwitz butcher, this person made it to the top of the list of the Angels of Death, and it’s easy to understand why. His experiments on identical twins, by which one of the twins serves as the subject and the other as the control, are considered as some of the most brutal in human history. But aren’t there many more who have committed a lot of crimes against humanity, causing a lot of deaths, pain and suffering? Shouldn’t they also be qualified for this grim title?
+Some people might think of the Grim Reaper. Some might think of Shinigami, gods of death in Japanese folklore and mythology, and seen in the famous anime Death Note. And some metalheads may read this title and be reminded of the Slayer song on their famous 1986 release ‘Reign in Blood’. The lyrics refer to one of those angels of death: Josef Mengele. Also known as the Auschwitz butcher, this person made it to the top of the list of the Angels of Death, and it’s easy to understand why. His experiments on identical twins, by which one of the twins serves as the subject and the other as the control, are considered as some of the most brutal in human history.
 
 The Angel of Death, Azrael, is in Islamic culture responsible for taking the souls of the deceased away from the bodies, acting on Gods behalf. But through myth and legend Azrael is also considered to be a fallen angel, serving Satan himself. The title Angel of Death, given to certain historical figures, obviously refers to the second explanation.
 
@@ -19,4 +19,4 @@ He was part of the Comite de Salut Public during the Terror in the French Revolu
 
 Louis Antoine de Saint-Just
 
-“We must not only punish traitors, but all people who are not enthusiastic. There are only two kinds of citizens: the good and the bad. The Republic owes to the good its protection. To the bad it owes only death.“ – Louis Antoine de Saint-Just![](/ash.jpeg)
+“We must not only punish traitors, but all people who are not enthusiastic. There are only two kinds of citizens: the good and the bad. The Republic owes to the good its protection. To the bad it owes only death.“ – Louis Antoine de Saint-Just
